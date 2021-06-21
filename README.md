@@ -1,4 +1,6 @@
-﻿Hi there, I'm Ufuoma
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I build stuff on the web and design user interfaces, i write Javascript and React then I design with figma.
+I'm Ufuoma, a FrontEnd Developer and UI designer
+
+*I write Javascript and React then I design with figma.
 
