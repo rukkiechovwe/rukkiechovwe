@@ -1,7 +1,7 @@
 #Hey 👋, I'm Rukkie
 >Frontend | UI/UX
 
-- 🌱 I’m currently learning **MongoDB, Express and Nodejs**
+
 
 ### Tech Stacks I've worked with
 
@@ -16,4 +16,6 @@
 }
 ```
 
+- 🌱 <b>Exploring:</b> MongoDB, Express and Nodejs
+- 🤔 <b>Exploring:</b> UI/UX design
 
