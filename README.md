@@ -15,6 +15,6 @@
 }
 ```
 
-- 🌱 <b>Exploring:</b> MongoDB, Express and Nodejs
+- 🌱 <b>Learning:</b> MongoDB, Express and Nodejs
 - 🤔 <b>Exploring:</b> UI/UX design
 
