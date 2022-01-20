@@ -8,7 +8,6 @@
 ```json
 {
       "language": ["javascript"],
-      "ui": ["figma"]
       "frontend": ["reactjs", "nextjs", "vuejs", "nuxtjs"],
       "state-management": ["vuex"],
       "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3"],
