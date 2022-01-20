@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Rukkie</h1>
-<h3 align="center">Frontend | UI/UX</h3>
+<h1>Hey 👋, I'm Rukkie</h1>
+<h3>Frontend | UI/UX</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express and Nodejs**
 
