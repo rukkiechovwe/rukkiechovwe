@@ -1,5 +1,5 @@
 # Hey 👋, I'm Rukkie
->Frontend | UI/UX
+>Frontend dev
 
 
 
@@ -9,12 +9,11 @@
 {
       "language": ["javascript"],
       "frontend": ["reactjs", "nextjs", "vuejs", "nuxtjs"],
-      "state-management": ["vuex"],
+      "state-management": ["vuex", "context API"],
       "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3"],
       "BaaS": ["firebase"],
 }
 ```
 
-- 🌱 <b>Learning:</b> MongoDB, Express and Nodejs
 - 🤔 <b>Exploring:</b> UI/UX design
 
