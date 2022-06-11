@@ -7,7 +7,7 @@
 
 ```json
 {
-      "language": ["javascript"],
+      "language": ["javascript, "typescript"],
       "frontend": ["reactjs", "nextjs", "vuejs", "nuxtjs"],
       "state-management": ["vuex", "context API"],
       "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3"],
@@ -16,4 +16,3 @@
 ```
 
 - 🤔 <b>Exploring:</b> UI/UX design
-
