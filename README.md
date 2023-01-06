@@ -9,8 +9,8 @@
 {
       "language": ["javascript, "typescript"],
       "frontend": ["reactjs", "nextjs", "vuejs", "nuxtjs"],
-      "state-management": ["vuex", "context API"],
-      "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3"],
+      "state-management": ["vuex", "context API", "redux"],
+      "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3", "MUI"],
       "BaaS": ["firebase"],
 }
 ```
