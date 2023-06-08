@@ -1,18 +1,7 @@
 # Hey 👋, I'm Rukkie
->Frontend dev
+Frontend Engineer
 
 
-
-### Tech Stacks I've worked with
-
-```json
-{
-      "language": ["javascript, "typescript"],
-      "frontend": ["reactjs", "nextjs", "vuejs", "nuxtjs"],
-      "state-management": ["vuex", "context API", "redux"],
-      "styling": ["styled-components", "chakra-ui", "tailwindcss", "CSS3", "MUI"],
-      "BaaS": ["firebase"],
-}
-```
-
-- 🤔 <b>Exploring:</b> UI/UX design
+[![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rukkiechovwe/)
+[![Portfolio](https://img.shields.io/badge/%20-Portfolio-black?color=222244&labelColor=000000&logo=webflow&logoColor=f5f7fe)](https://rukkie.me)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe)](https://twitter.com/rukkiechovwe)
