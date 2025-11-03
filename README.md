@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
 
@@ -46,7 +46,7 @@
 </div>
 
 </div>
----
+
 
 ### 🌐 Connect with Me  
 
@@ -59,6 +59,7 @@
 ---
 
 ⭐️ *“Building meaningful experiences, one interface at a time.”*
+
 
 
 
