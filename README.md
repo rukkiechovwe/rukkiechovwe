@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+#### 🌐 Connect with Me  
 
 [![Email](https://img.shields.io/badge/%20-Email-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:rukkiechowe@gmail.com)
 [![Portfolio](https://img.shields.io/badge/%20-Portfolio-black?color=222244&labelColor=000000&logo=vercel&logoColor=f5f7fe)](https://rukkie.vercel.app)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -40,13 +40,14 @@
 
 ---
 
-### 📊 Stats
+#### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent)  
 
 ---
 
 ⭐️ *“Building meaningful experiences, one interface at a time.”*
+
 
 
 
