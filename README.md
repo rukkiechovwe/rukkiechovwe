@@ -14,7 +14,7 @@
 - 🌱 I’m currently a **ReactJS + TypeScript** developer  
 - 💡 I’m looking for help with **open-source projects**, **hackathons**, and other learning opportunities  
 - 💼 Job interests: **Frontend Engineer**  
-- 📫 You can view my [portfolio](https://rukkie.vercel.app) and contact me via **[email](mailto:rukkiechowe@gmail.com)**  
+- 📫 You can view my [portfolio](https://rukkie.vercel.app) and contact me via [email](mailto:rukkiechowe@gmail.com)  
 
 ---
 
@@ -35,28 +35,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ---
 
 #### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent&title_color=22C55E&text_color=22C55E&icon_color=22C55E)
 
 ---
 
 ⭐️ *“Building meaningful experiences, one interface at a time.”*
-
-
-
-
-
-
-
-
-
-
-
