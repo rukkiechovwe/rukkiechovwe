@@ -1,9 +1,13 @@
 <span align="center">
+  
 # Hey 👋, I'm Rukkie  
+
 </span>
 
 <span align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Frontend+Engineer)](https://git.io/typing-svg)
+
 </span>
 
 ---
@@ -50,4 +54,5 @@
 ---
 
 ⭐️ *“Building meaningful experiences, one interface at a time.”*
+
 
