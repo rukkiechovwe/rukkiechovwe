@@ -22,17 +22,8 @@
 
 ---
 
-### 📊 Stats & 🛠 Tech Stack
+### 🛠 Tech Stack
 
-
-<div align="center">
-
-<div style="display: flex; align-items: center; gap: 10px;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
-
-<div align="center" style="width: 48%;">
-  
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -41,12 +32,13 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-</div>
+---
 
-</div>
+### 📊 Stats
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukkiechovwe&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
 
+---
 
 ### 🌐 Connect with Me  
 
@@ -59,6 +51,7 @@
 ---
 
 ⭐️ *“Building meaningful experiences, one interface at a time.”*
+
 
 
 
